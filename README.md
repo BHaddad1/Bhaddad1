@@ -6,15 +6,14 @@
 ### <div align="center">I'm Blanche, a front-end web developer currently coding at Turing School of Software & Design.</div>  
   
 
-- 🔭 I’m currently working on building React apps.  
+### <div align="center">🔭 I’m currently working on building React apps.</div>   
   
 
-- 🌱 I’m currently learning React, and am aiming to take on TypeScript and Python in the near future.  
+### <div align="center">🌱 I’m currently learning React, and am aiming to take on TypeScript and Python in the near future.</div>  
   
 
-- ⚡ Fun fact: Most of my clothes are thrifted.  
+### <div align="center">⚡ Fun fact: Most of my clothes are thrifted.</div> 
   
-
 <br/>  
 
 
