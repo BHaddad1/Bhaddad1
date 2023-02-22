@@ -27,6 +27,7 @@
 <a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
 <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+ <a href="https://en.wikipedia.org/wiki/Jest_(framework)" target="_blank"><img style="margin: 10px" src="<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Jest" height="50" /></a>  " alt="HTML5" height="50" /></a>  
 </div>
 
 <br/>  
