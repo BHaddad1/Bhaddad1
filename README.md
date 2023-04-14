@@ -9,7 +9,7 @@
 ### <div align="center">🔭 I’m currently working on building React apps.</div>   
   
 
-### <div align="center">🌱 I’m currently learning React, and am aiming to take on TypeScript and Python in the near future.</div>  
+### <div align="center">🌱 I’m currently learning TypeScript, and am aiming to take on Python in the near future.</div>  
   
 
 ### <div align="center">⚡ Fun fact: Most of my clothes are thrifted.</div> 
