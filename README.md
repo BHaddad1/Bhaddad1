@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Blanche, a front-end web developer currently coding at Turing School of Software & Design.</div>  
+### <div align="center">I'm Blanche, a front-end web developer who graduated from the Turing School of Software & Design.</div>  
   
 
-### <div align="center">🔭 I’m currently working on building React apps.</div>   
+### <div align="center">🔭 I’m currently working on some fun React apps.</div>   
   
 
-### <div align="center">🌱 I’m currently learning TypeScript, and am aiming to take on Python in the near future.</div>  
+### <div align="center">🌱 I’m currently interning at Movewell, an app that will help bring physical therapists right to your door!.</div>  
   
 
 ### <div align="center">⚡ Fun fact: Most of my clothes are thrifted.</div> 
