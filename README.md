@@ -9,7 +9,7 @@
 ### <div align="center">🔭 I’m currently working on some fun React apps.</div>   
   
 
-### <div align="center">🌱 I’m currently interning at Movewell, an app that will help bring physical therapists right to your door!.</div>  
+### <div align="center">🌱 I’m currently interning at Movewell, an app that will help bring physical therapists right to your door!</div>  
   
 
 ### <div align="center">⚡ Fun fact: Most of my clothes are thrifted.</div> 
