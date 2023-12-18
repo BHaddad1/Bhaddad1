@@ -6,13 +6,13 @@
 ### <div align="center">I'm Blanche, a front-end web developer who graduated from the Turing School of Software & Design.</div>  
   
 
-### <div align="center">🔭 I’m currently working on some fun React apps.</div>   
+### <div align="center">🔭 I’m currently working on some fun Vite-React apps.</div>   
   
 
-### <div align="center">🌱 I’m currently interning at Movewell, an app that will help bring physical therapists right to your door!</div>  
+### <div align="center">🌱 I’m currently teaching myself Angular while I look for the right team to join!</div>  
   
 
-### <div align="center">⚡ Fun fact: Most of my clothes are thrifted.</div> 
+### <div align="center">⚡ Fun fact: I own 6 pairs of glasses that I cycle through each week. </div> 
   
 <br/>  
 
